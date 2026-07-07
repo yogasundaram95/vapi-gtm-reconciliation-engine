@@ -269,7 +269,9 @@ vapi_gtm_reconciliation_engine/
 │   ├── vapi_reconciliation_dashboard.xlsx
 │   └── dashboard_data_dictionary.md
 └── screenshots/
-    └── screenshot_checklist.md
+    ├── hubspot/
+    ├── salesforce/
+    └── dashboard/
 ```
 
 ---
