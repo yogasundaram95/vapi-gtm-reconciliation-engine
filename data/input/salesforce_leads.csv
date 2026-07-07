@@ -1,0 +1,19 @@
+salesforce_lead_id,email,company,domain,salesforce_status,salesforce_owner,salesforce_lifecycle_stage,created_date,last_modified_date
+SF001,sarah.okonkwo@northcarehealth.com,NorthCare Health,northcarehealth.com,Working,alex.ruiz,SQL,2024-05-01,2024-06-25
+SF002,james.whitfield@meridianins.com,Meridian Insurance,meridianins.com,New,,MQL,2024-05-10,2024-06-20
+SF003,marcus.chen@brighthomesvc.com,BrightHome Services,brighthomesvc.com,New,jay.park,Lead,2024-05-12,2024-06-10
+SF004,priya.nair@rapidfixfield.com,RapidFix Field Services,rapidfixfield.com,Working,kim.lee,Lead,2024-05-15,2024-06-15
+SF005,kevin.osei@marketnest.com,MarketNest,marketnest.com,New,mike.chen,Lead,2024-05-20,2024-05-30
+SF006,aisha.patel@taxright.io,TaxRight Software,taxright.io,Working,sam.gupta,SQL,2024-05-03,2024-06-29
+SF007,brian.kumari@careplus.com,CarePlus Clinics,careplus.com,New,alex.ruiz,Lead,2024-05-22,2024-05-15
+SF008,raj.sharma@haulpro.com,HaulPro Logistics,haulpro.com,Working,jay.park,SQL,2024-05-25,2024-06-18
+SF009,elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,New,,Lead,2024-05-28,2024-06-12
+SF010,tomas.rivera@callflowops.com,CallFlow Operations,callflowops.com,Working,mike.chen,SQL,2024-05-05,2024-06-27
+SF011,yuki.tanaka@supportnova.io,SupportNova,supportnova.io,New,,MQL,2024-06-01,2024-06-30
+SF012,darnell.brooks@devbridge.io,DevBridge API,devbridge.io,Working,raj.patel,Lead,2024-06-05,2024-06-29
+SF013,fatima.alhassan@nexusinsure.com,Nexus Insurance Group,nexusinsure.com,New,lisa.kim,MQL,2024-06-08,2024-06-14
+SF014,carlos.mendez@logixhaul.com,LogixHaul,logixhaul.com,New,jay.park,Lead,2024-06-10,2024-06-08
+SF015,amara.obi@fieldsparksvc.com,FieldSpark Services,fieldsparksvc.com,New,kim.lee,Lead,2024-06-12,2024-05-20
+SF016,wei.zhang@platformhub.com,PlatformHub,platformhub.com,Working,raj.patel,SQL,2024-05-08,2024-06-28
+SF017,michael.obi@terralogic.com,TerraLogic,terralogic.com,Working,sam.gupta,MQL,2024-04-15,2024-06-10
+SF018,jessica.wu@vantageops.com,VantageOps,vantageops.com,New,lisa.kim,Lead,2024-04-22,2024-05-30

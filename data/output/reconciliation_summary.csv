@@ -1,0 +1,16 @@
+metric,value
+HubSpot contacts (total rows),20
+Unique HubSpot contacts (by normalized email),19
+Salesforce leads,18
+Clay enriched records,20
+HubSpot contacts matched to Salesforce,16
+HubSpot contacts missing in Salesforce,3
+Salesforce leads missing in HubSpot,2
+Duplicate HubSpot contacts (by email),1
+Salesforce leads missing owner,6
+Lifecycle stage mismatches,4
+Records missing UTM attribution,10
+Low Clay enrichment confidence records,10
+High-intent leads not in Salesforce,3
+Critical revenue leakage records,4
+Healthy records,5

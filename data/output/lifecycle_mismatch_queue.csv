@@ -1,0 +1,5 @@
+email,company,hubspot_lifecycle_stage,salesforce_lifecycle_stage,lead_score,revenue_leakage_risk,recommended_fix
+marcus.chen@brighthomesvc.com,BrightHome Services,Marketing Qualified Lead,Lead,58,Low,Align stages — HubSpot: 'Marketing Qualified Lead' vs Salesforce: 'Lead'
+raj.sharma@haulpro.com,HaulPro Logistics,Lead,SQL,64,Medium,Align stages — HubSpot: 'Lead' vs Salesforce: 'SQL'
+fatima.alhassan@nexusinsure.com,Nexus Insurance Group,Lead,MQL,63,Medium,Align stages — HubSpot: 'Lead' vs Salesforce: 'MQL'
+carlos.mendez@logixhaul.com,LogixHaul,Marketing Qualified Lead,Lead,43,Low,Align stages — HubSpot: 'Marketing Qualified Lead' vs Salesforce: 'Lead'

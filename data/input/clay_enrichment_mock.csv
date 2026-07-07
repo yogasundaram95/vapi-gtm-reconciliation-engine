@@ -1,0 +1,21 @@
+domain,industry,employee_count,tech_stack,funding_stage,active_job_signal,job_posted_days_ago,voice_ai_use_case,voice_ai_fit,clay_enrichment_confidence,decision_maker_title
+northcarehealth.com,Healthcare,1200,"Genesys, IVR, Salesforce",Series B,Hiring Call Center Operations Manager,8,Patient scheduling and triage call automation,High,0.92,VP Patient Access
+meridianins.com,Insurance,800,"Avaya, Claims Portal, Salesforce",Series A,Hiring Claims Support Lead,12,Insurance claims call intake and routing automation,High,0.88,Director Claims Operations
+freightlink.io,Logistics,2400,"Zendesk, Twilio, IVR",Series C,Hiring Dispatch Operations Lead,5,Freight dispatch and shipment status call automation,High,0.91,Head of Support
+brighthomesvc.com,Home Services,300,"ServiceTitan, basic phone",Seed,Hiring Customer Support Manager,22,Appointment scheduling and confirmation automation,Medium,0.71,Operations Manager
+rapidfixfield.com,Field Services,150,"Jobber, basic phone",Bootstrapped,,,Field technician dispatch scheduling,Medium,0.64,Owner
+marketnest.com,Marketplace,600,"Freshdesk, basic IVR",Series A,,,Marketplace seller and buyer support automation,Medium,0.55,Director of Customer Experience
+taxright.io,Tax Software,450,"Intercom, Twilio, Salesforce",Series B,Hiring CX Automation Manager,6,Tax season overflow call handling and triage,High,0.93,VP Customer Success
+careplus.com,Healthcare,95,Basic phone system,Bootstrapped,,,Patient appointment reminder and rescheduling,Low,0.60,Support Team Lead
+safeguardins.com,Insurance,3100,"Cisco, IVR, large call center stack",Series D,Hiring Call Center Operations Manager,10,Contact center modernization with voice AI,High,0.89,Head of Contact Center
+haulpro.com,Logistics,1800,"Custom dispatch system, Salesforce",Series B,Hiring Dispatch Operations Lead,20,Freight tracking and inbound dispatch call automation,Medium,0.78,Director of Operations
+homeshield.com,Home Services,220,"FieldEdge, basic IVR",Seed,,,Home warranty claim intake and scheduling automation,Medium,0.68,General Manager
+callflowops.com,Customer Support SaaS,5000,"Five9, Genesys, Salesforce",Series E,Hiring CX Automation Manager,7,Large-scale contact center voice AI deployment,High,0.91,VP Call Center Operations
+supportnova.io,Customer Support SaaS,380,"Intercom, custom API, Zendesk",Series B,Hiring API Support Engineer,4,AI voice layer for SaaS customer support workflows,High,0.94,Head of CX Engineering
+devbridge.io,Developer Tools,210,"Custom webhooks, REST APIs",Series A,Hiring API Support Engineer,11,Voice AI integration for developer support and onboarding,High,0.87,Lead Developer Advocate
+nexusinsure.com,Insurance,1500,"IVR, Claims Portal, Salesforce",Series C,Hiring Claims Support Lead,15,Voice-driven insurance claims intake and verification,High,0.82,Director of Digital Claims
+logixhaul.com,Logistics,900,"Salesforce, basic phone",Series A,,,Logistics dispatch and delivery status call automation,Low,0.61,CX Operations Lead
+fieldsparksvc.com,Field Services,80,"ServiceFusion, basic phone",Bootstrapped,,,Field tech dispatch and job scheduling,Low,0.58,Founder
+platformhub.com,Developer Tools,320,"Custom APIs, Twilio, AWS Lambda",Series B,Hiring API Support Engineer,9,API-first voice integration and developer support automation,High,0.93,VP Engineering
+terralogic.com,Logistics,450,"SAP, basic phone",Series A,Hiring Dispatch Operations Lead,18,Supply chain and inbound freight call automation,Medium,0.76,Head of Operations
+vantageops.com,Customer Support SaaS,280,"Zendesk, Intercom",Seed,,,Customer support voice deflection and triage,Medium,0.69,Director of Operations

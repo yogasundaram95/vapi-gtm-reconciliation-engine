@@ -1,0 +1,11 @@
+email,company,domain,clay_enrichment_confidence,lead_score,data_quality_score,revenue_leakage_risk,recommended_fix
+marcus.chen@brighthomesvc.com,BrightHome Services,brighthomesvc.com,0.71,58,75,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+priya.nair@rapidfixfield.com,RapidFix Field Services,rapidfixfield.com,0.64,43,75,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+kevin.osei@marketnest.com,MarketNest,marketnest.com,0.55,48,65,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+brian.kumari@careplus.com,CarePlus Clinics,careplus.com,0.6,18,85,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+raj.sharma@haulpro.com,HaulPro Logistics,haulpro.com,0.78,64,75,Medium,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,0.68,48,75,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+kevin.osei@marketnest.com,MarketNest,marketnest.com,0.55,38,75,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+fatima.alhassan@nexusinsure.com,Nexus Insurance Group,nexusinsure.com,0.82,63,75,Medium,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+carlos.mendez@logixhaul.com,LogixHaul,logixhaul.com,0.61,43,85,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"
+amara.obi@fieldsparksvc.com,FieldSpark Services,fieldsparksvc.com,0.58,28,85,Low,"Re-run Clay enrichment; manually verify company name, employee count, and industry before acting on lead score"

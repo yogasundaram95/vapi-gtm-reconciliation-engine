@@ -1,0 +1,2 @@
+normalized_email,duplicate_count,hubspot_contact_ids,companies_seen,domains_seen,lead_score_max,recommended_fix
+kevin.osei@marketnest.com,2,HS006; HS012,MarketNest,marketnest.com,48,Merge duplicate contacts in HubSpot; keep record with highest Data Quality Score; update Salesforce link

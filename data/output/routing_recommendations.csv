@@ -1,0 +1,20 @@
+email,company,domain,lead_score,data_quality_score,revenue_leakage_risk,routing_recommendation,next_best_action
+sarah.okonkwo@northcarehealth.com,NorthCare Health,northcarehealth.com,96,100,Healthy,AE Priority,Route to AE for immediate outreach
+diana.torres@freightlink.io,FreightLink Logistics,freightlink.io,96,100,Critical,RevOps Critical Fix — Add to Salesforce before Sales outreach,Create Salesforce lead immediately; assign to segment owner; alert RevOps
+aisha.patel@taxright.io,TaxRight Software,taxright.io,96,100,Healthy,AE Priority,Route to AE for immediate outreach
+tomas.rivera@callflowops.com,CallFlow Operations,callflowops.com,96,100,Healthy,AE Priority,Route to AE for immediate outreach
+yuki.tanaka@supportnova.io,SupportNova,supportnova.io,96,100,Critical,Assign Owner Immediately,Assign Salesforce owner by industry segment; begin outreach within 24 hours
+nadia.volkov@supportnova.io,SupportNova,supportnova.io,96,90,Critical,RevOps Critical Fix — Add to Salesforce before Sales outreach,Create Salesforce lead immediately; assign to segment owner; alert RevOps
+wei.zhang@platformhub.com,PlatformHub,platformhub.com,96,100,Healthy,AE Priority,Route to AE for immediate outreach
+linda.okafor@safeguardins.com,SafeGuard Insurance,safeguardins.com,84,90,Critical,RevOps Critical Fix — Add to Salesforce before Sales outreach,Create Salesforce lead immediately; assign to segment owner; alert RevOps
+darnell.brooks@devbridge.io,DevBridge API,devbridge.io,83,100,Healthy,AE Priority,Route to AE for immediate outreach
+james.whitfield@meridianins.com,Meridian Insurance,meridianins.com,74,90,Medium,SDR Priority,Add to SDR outreach sequence within 48 hours
+raj.sharma@haulpro.com,HaulPro Logistics,haulpro.com,64,75,Medium,SDR Priority,Add to SDR outreach sequence within 48 hours
+fatima.alhassan@nexusinsure.com,Nexus Insurance Group,nexusinsure.com,63,75,Medium,SDR Priority,Add to SDR outreach sequence within 48 hours
+marcus.chen@brighthomesvc.com,BrightHome Services,brighthomesvc.com,58,75,Low,Nurture,Enroll in nurture sequence; re-score in 30 days
+elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,48,75,Low,Nurture,Enroll in nurture sequence; re-score in 30 days
+priya.nair@rapidfixfield.com,RapidFix Field Services,rapidfixfield.com,43,75,Low,Nurture,Enroll in nurture sequence; re-score in 30 days
+carlos.mendez@logixhaul.com,LogixHaul,logixhaul.com,43,85,Low,Nurture,Enroll in nurture sequence; re-score in 30 days
+kevin.osei@marketnest.com,MarketNest,marketnest.com,38,75,Low,Hold / Enrich Further,Flag for enrichment review; do not contact until score improves
+amara.obi@fieldsparksvc.com,FieldSpark Services,fieldsparksvc.com,28,85,Low,Hold / Enrich Further,Flag for enrichment review; do not contact until score improves
+brian.kumari@careplus.com,CarePlus Clinics,careplus.com,18,85,Low,Hold / Enrich Further,Flag for enrichment review; do not contact until score improves

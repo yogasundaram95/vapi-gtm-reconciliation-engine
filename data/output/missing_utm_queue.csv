@@ -1,0 +1,11 @@
+email,company,missing_fields,lead_score,data_quality_score,recommended_fix
+james.whitfield@meridianins.com,Meridian Insurance,utm_source,74,90,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+marcus.chen@brighthomesvc.com,BrightHome Services,utm_source,58,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+priya.nair@rapidfixfield.com,RapidFix Field Services,utm_campaign,43,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+kevin.osei@marketnest.com,MarketNest,utm_source; utm_campaign,48,65,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+linda.okafor@safeguardins.com,SafeGuard Insurance,utm_campaign,84,90,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+raj.sharma@haulpro.com,HaulPro Logistics,utm_campaign,64,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+elena.vasquez@homeshield.com,HomeShield Services,utm_campaign,48,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+kevin.osei@marketnest.com,MarketNest,utm_campaign,38,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+fatima.alhassan@nexusinsure.com,Nexus Insurance Group,utm_campaign,63,75,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"
+nadia.volkov@supportnova.io,SupportNova,utm_source,96,90,"Backfill UTM source and campaign from ad platform logs, CRM import history, or form submission data"

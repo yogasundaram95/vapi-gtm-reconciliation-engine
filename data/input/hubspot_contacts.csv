@@ -1,0 +1,21 @@
+hubspot_contact_id,email,first_name,last_name,company,domain,job_title,lifecycle_stage,utm_source,utm_campaign,lead_source,form_submit_date,last_activity_date,pricing_page_visits,demo_page_visits,docs_page_visits,api_docs_visits,api_key_created,test_call_count,campaign_reply,booked_demo
+HS001,sarah.okonkwo@northcarehealth.com,Sarah,Okonkwo,NorthCare Health,northcarehealth.com,VP Patient Access,Sales Qualified Lead,google,q1-voice-ai-demo,Organic Search,2024-06-20,2024-06-25,5,3,12,8,yes,14,yes,yes
+HS002,james.whitfield@meridianins.com,James,Whitfield,Meridian Insurance,meridianins.com,Director Claims Operations,Marketing Qualified Lead,,insurance-cx-2024,LinkedIn,,2024-06-20,3,0,6,2,no,0,yes,no
+HS003,diana.torres@freightlink.io,Diana,Torres,FreightLink Logistics,freightlink.io,Head of Support,Sales Qualified Lead,google,logistics-support-q2,Google Ads,2024-06-24,2024-06-28,7,5,18,14,yes,22,yes,yes
+HS004,marcus.chen@brighthomesvc.com,Marcus,Chen,BrightHome Services,brighthomesvc.com,Operations Manager,Marketing Qualified Lead,,home-services-spring,Facebook,,2024-06-10,1,0,3,1,no,0,no,no
+HS005,priya.nair@rapidfixfield.com,Priya,Nair,RapidFix Field Services,rapidfixfield.com,Owner,Lead,facebook,,Facebook,,2024-06-15,2,0,4,0,no,0,no,no
+HS006,kevin.osei@marketnest.com,Kevin,Osei,MarketNest,marketnest.com,Director of Customer Experience,Lead,,,Content,,2024-05-30,1,0,2,0,no,0,no,no
+HS007,aisha.patel@taxright.io,Aisha,Patel,TaxRight Software,taxright.io,VP Customer Success,Sales Qualified Lead,google,tax-saas-q2,Google Ads,2024-06-25,2024-06-29,9,6,21,16,yes,31,yes,yes
+HS008,brian.kumari@careplus.com,Brian,Kumari,CarePlus Clinics,careplus.com,Support Team Lead,Lead,referral,referral-health,Referral,,2024-05-15,0,0,1,0,no,0,no,no
+HS009,linda.okafor@safeguardins.com,Linda,Okafor,SafeGuard Insurance,safeguardins.com,Head of Contact Center,Marketing Qualified Lead,google,,Google Ads,2024-06-18,2024-06-22,4,2,9,5,no,3,no,no
+HS010,raj.sharma@haulpro.com,Raj,Sharma,HaulPro Logistics,haulpro.com,Director of Operations,Lead,linkedin,,LinkedIn,,2024-06-18,2,0,5,3,no,0,yes,no
+HS011,elena.vasquez@homeshield.com,Elena,Vasquez,HomeShield Services,homeshield.com,General Manager,Lead,google,,Google Ads,,2024-06-12,2,0,4,1,no,0,no,no
+HS012,kevin.osei@marketnest.com,Kevin,Osei,MarketNest,marketnest.com,Director of Customer Experience,Lead,seo,,SEO,,2024-05-28,0,0,1,0,no,0,no,no
+HS013,tomas.rivera@callflowops.com,Tomás,Rivera,CallFlow Operations,callflowops.com,VP Call Center Operations,Sales Qualified Lead,google,contact-center-summit,Event,2024-06-23,2024-06-27,6,4,15,11,yes,18,yes,yes
+HS014,yuki.tanaka@supportnova.io,Yuki,Tanaka,SupportNova,supportnova.io,Head of CX Engineering,Marketing Qualified Lead,producthunt,saas-cx-2024,Product Hunt,2024-06-27,2024-06-30,10,7,27,22,yes,45,yes,yes
+HS015,darnell.brooks@devbridge.io,Darnell,Brooks,DevBridge API,devbridge.io,Lead Developer Advocate,Lead,github,dev-api-q2,GitHub,,2024-06-29,5,8,35,31,yes,67,yes,yes
+HS016,fatima.alhassan@nexusinsure.com,Fatima,Al-Hassan,Nexus Insurance Group,nexusinsure.com,Director of Digital Claims,Lead,linkedin,,LinkedIn,,2024-06-14,3,0,6,2,no,0,no,no
+HS017,carlos.mendez@logixhaul.com,Carlos,Mendez,LogixHaul,logixhaul.com,CX Operations Lead,Marketing Qualified Lead,google,logistics-cx-spring,Google Ads,,2024-06-08,1,0,3,1,no,0,no,no
+HS018,amara.obi@fieldsparksvc.com,Amara,Obi,FieldSpark Services,fieldsparksvc.com,Founder,Lead,referral,referral-field,Referral,,2024-05-20,1,0,2,0,no,0,no,no
+HS019,nadia.volkov@supportnova.io,Nadia,Volkov,SupportNova,supportnova.io,Head of CX Engineering,Marketing Qualified Lead,,saas-cx-2024,Direct,2024-06-25,2024-06-29,9,6,25,20,yes,41,yes,yes
+HS020,wei.zhang@platformhub.com,Wei,Zhang,PlatformHub,platformhub.com,VP Engineering,Sales Qualified Lead,google,api-platform-q2,Google Ads,2024-06-24,2024-06-28,11,9,30,28,yes,55,yes,yes

@@ -1,0 +1,20 @@
+email,normalized_email,company,domain,fit_score,intent_score,engagement_score,hiring_signal_score,lead_score
+sarah.okonkwo@northcarehealth.com,sarah.okonkwo@northcarehealth.com,NorthCare Health,northcarehealth.com,35,26,20,15,96
+diana.torres@freightlink.io,diana.torres@freightlink.io,FreightLink Logistics,freightlink.io,35,26,20,15,96
+aisha.patel@taxright.io,aisha.patel@taxright.io,TaxRight Software,taxright.io,35,26,20,15,96
+tomas.rivera@callflowops.com,tomas.rivera@callflowops.com,CallFlow Operations,callflowops.com,35,26,20,15,96
+yuki.tanaka@supportnova.io,yuki.tanaka@supportnova.io,SupportNova,supportnova.io,35,26,20,15,96
+nadia.volkov@supportnova.io,nadia.volkov@supportnova.io,SupportNova,supportnova.io,35,26,20,15,96
+wei.zhang@platformhub.com,wei.zhang@platformhub.com,PlatformHub,platformhub.com,35,26,20,15,96
+linda.okafor@safeguardins.com,linda.okafor@safeguardins.com,SafeGuard Insurance,safeguardins.com,35,26,8,15,84
+darnell.brooks@devbridge.io,darnell.brooks@devbridge.io,DevBridge API,devbridge.io,30,26,12,15,83
+james.whitfield@meridianins.com,james.whitfield@meridianins.com,Meridian Insurance,meridianins.com,35,18,6,15,74
+raj.sharma@haulpro.com,raj.sharma@haulpro.com,HaulPro Logistics,haulpro.com,30,18,6,10,64
+fatima.alhassan@nexusinsure.com,fatima.alhassan@nexusinsure.com,Nexus Insurance Group,nexusinsure.com,35,18,0,10,63
+marcus.chen@brighthomesvc.com,marcus.chen@brighthomesvc.com,BrightHome Services,brighthomesvc.com,30,18,0,10,58
+elena.vasquez@homeshield.com,elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,30,18,0,0,48
+priya.nair@rapidfixfield.com,priya.nair@rapidfixfield.com,RapidFix Field Services,rapidfixfield.com,25,18,0,0,43
+carlos.mendez@logixhaul.com,carlos.mendez@logixhaul.com,LogixHaul,logixhaul.com,25,18,0,0,43
+kevin.osei@marketnest.com,kevin.osei@marketnest.com,MarketNest,marketnest.com,30,8,0,0,38
+amara.obi@fieldsparksvc.com,amara.obi@fieldsparksvc.com,FieldSpark Services,fieldsparksvc.com,10,18,0,0,28
+brian.kumari@careplus.com,brian.kumari@careplus.com,CarePlus Clinics,careplus.com,10,8,0,0,18

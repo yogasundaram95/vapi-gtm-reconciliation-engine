@@ -1,0 +1,7 @@
+email,company,domain,lead_score,data_quality_score,revenue_leakage_risk,action_required,owner_assignment_basis,suggested_routing_segment
+diana.torres@freightlink.io,FreightLink Logistics,freightlink.io,96,100,Critical,Assign Salesforce owner,Not yet synced to Salesforce — assign owner when record is created,Operations Segment
+yuki.tanaka@supportnova.io,SupportNova,supportnova.io,96,100,Critical,Assign Salesforce owner,Not assigned in Salesforce export,Platform Segment
+nadia.volkov@supportnova.io,SupportNova,supportnova.io,96,90,Critical,Assign Salesforce owner,Not yet synced to Salesforce — assign owner when record is created,Platform Segment
+linda.okafor@safeguardins.com,SafeGuard Insurance,safeguardins.com,84,90,Critical,Assign Salesforce owner,Not yet synced to Salesforce — assign owner when record is created,Regulated Industries Segment
+james.whitfield@meridianins.com,Meridian Insurance,meridianins.com,74,90,Medium,Assign Salesforce owner,Not assigned in Salesforce export,Regulated Industries Segment
+elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,48,75,Low,Assign Salesforce owner,Not assigned in Salesforce export,Operations Segment

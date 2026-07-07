@@ -1,0 +1,20 @@
+email,normalized_email,company,domain,data_quality_score,missing_fields
+sarah.okonkwo@northcarehealth.com,sarah.okonkwo@northcarehealth.com,NorthCare Health,northcarehealth.com,100,none
+diana.torres@freightlink.io,diana.torres@freightlink.io,FreightLink Logistics,freightlink.io,100,none
+aisha.patel@taxright.io,aisha.patel@taxright.io,TaxRight Software,taxright.io,100,none
+tomas.rivera@callflowops.com,tomas.rivera@callflowops.com,CallFlow Operations,callflowops.com,100,none
+yuki.tanaka@supportnova.io,yuki.tanaka@supportnova.io,SupportNova,supportnova.io,100,none
+nadia.volkov@supportnova.io,nadia.volkov@supportnova.io,SupportNova,supportnova.io,90,utm_source
+wei.zhang@platformhub.com,wei.zhang@platformhub.com,PlatformHub,platformhub.com,100,none
+linda.okafor@safeguardins.com,linda.okafor@safeguardins.com,SafeGuard Insurance,safeguardins.com,90,utm_campaign
+darnell.brooks@devbridge.io,darnell.brooks@devbridge.io,DevBridge API,devbridge.io,100,none
+james.whitfield@meridianins.com,james.whitfield@meridianins.com,Meridian Insurance,meridianins.com,90,utm_source
+raj.sharma@haulpro.com,raj.sharma@haulpro.com,HaulPro Logistics,haulpro.com,75,utm_campaign; clay_enrichment_confidence_low
+fatima.alhassan@nexusinsure.com,fatima.alhassan@nexusinsure.com,Nexus Insurance Group,nexusinsure.com,75,utm_campaign; clay_enrichment_confidence_low
+marcus.chen@brighthomesvc.com,marcus.chen@brighthomesvc.com,BrightHome Services,brighthomesvc.com,75,utm_source; clay_enrichment_confidence_low
+elena.vasquez@homeshield.com,elena.vasquez@homeshield.com,HomeShield Services,homeshield.com,75,utm_campaign; clay_enrichment_confidence_low
+priya.nair@rapidfixfield.com,priya.nair@rapidfixfield.com,RapidFix Field Services,rapidfixfield.com,75,utm_campaign; clay_enrichment_confidence_low
+carlos.mendez@logixhaul.com,carlos.mendez@logixhaul.com,LogixHaul,logixhaul.com,85,clay_enrichment_confidence_low
+kevin.osei@marketnest.com,kevin.osei@marketnest.com,MarketNest,marketnest.com,75,utm_campaign; clay_enrichment_confidence_low
+amara.obi@fieldsparksvc.com,amara.obi@fieldsparksvc.com,FieldSpark Services,fieldsparksvc.com,85,clay_enrichment_confidence_low
+brian.kumari@careplus.com,brian.kumari@careplus.com,CarePlus Clinics,careplus.com,85,clay_enrichment_confidence_low
